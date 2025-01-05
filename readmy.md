@@ -1,14 +1,30 @@
 Задание 1  
-[Текст ссылки](https://hub.docker.com/repository/docker/omygodable/custom-nginx/general)
+[решение](https://hub.docker.com/repository/docker/omygodable/custom-nginx/general)
 
 Задание 2 
-[Текст ссылки](https://github.com/Omygodable/1HW/tree/main/screensots/Снимокэкрана (221-222))  
+[Снимок 1](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(221).png)  
+[Снимок 2](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(222).png)
 
 Задание 3 
-[Текст ссылки](screensots/Снимок экрана (224-233))  
+[Снимок 1](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(224).png) 
+[Снимок 2](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(226).png)
+[Снимок 3](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(228).png)
+[Снимок 4](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(230).png)
+[Снимок 5](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(231).png)
+[Снимок 6](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(232).png)
+[Снимок 7](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(233).png)
 
 Задание 4 
-[Текст ссылки](screensots/Снимок экрана (238-239))  
+[Снимок ](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(238).png)  
+[Снимок 2](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(239).png)  
+
 
 Задание 5 
-[Текст ссылки](screensots/Снимок экрана (240-253))  
+[Снимок 1](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(240).png)  
+[Снимок 2](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(243).png)  
+[Снимок 3](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(245).png)  
+[Снимок 4](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(247).png)  
+[Снимок 5](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(248).png)  
+[Снимок 6](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(251).png)  
+[Снимок 7](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(252).png)  
+[Снимок 8](https://github.com/Omygodable/1HW/blob/main/screensots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(253).png)  
