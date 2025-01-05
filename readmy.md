@@ -2,7 +2,7 @@
 [Текст ссылки](https://hub.docker.com/repository/docker/omygodable/custom-nginx/general)
 
 Задание 2 
-[Текст ссылки](https://github.com/Omygodable/1HW/tree/main/screensots/Снимок экрана (221-222))  
+[Текст ссылки](https://github.com/Omygodable/1HW/tree/main/screensots/Снимокэкрана (221-222))  
 
 Задание 3 
 [Текст ссылки](screensots/Снимок экрана (224-233))  
